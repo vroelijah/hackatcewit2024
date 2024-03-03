@@ -1,0 +1,1 @@
+FOR %%A IN (*.m4a) DO ffmpeg -i "%%A" "%%~nA.wav"

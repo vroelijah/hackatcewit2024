@@ -1,0 +1,11 @@
+{
+    "Audio/S.wav": "A patient with hypertension was identified.",
+    "Audio/SS.wav": "A patient with hypotension was identified.",
+    "Audio/SSS.wav": "A patient with hypoxemia was identified.",
+    "Audio/L.wav": "A patient with tachycardia was identified.",
+    "Audio/SL.wav": "A patient with bradycardia was identified.",
+    "Audio/SSL.wav": "A patient with arrhythmias was identified.",
+    "Audio/SSSL.wav": "A patient with respiratory distress was identified.",
+    "Audio/SSSS.wav": "A patient with hyperglycemia was identified."
+}
+  

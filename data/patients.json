@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Doe",
+        "room": "ER-152"
+    },
+    {
+        "name": "Jane Smith",
+        "room": "ICU-209"
+    },
+    {
+        "name": "Bob Brown",
+        "room": "ER-306"
+    }
+]
